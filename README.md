@@ -17,5 +17,5 @@ npm i sass -D
 ## Development
 
 1. Clone this repo
-2. Run `npm install`
+2. Run `npm ci`
 3. Run `npm run dev` and start coding
