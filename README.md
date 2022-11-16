@@ -14,6 +14,10 @@ npm install sass --save-dev
 npm i sass -D
 ```
 
+## Documentation
+
+[PRD FILE](./docs/final.pdf)
+
 ## Development
 
 1. Clone this repo
