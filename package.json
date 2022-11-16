@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "sass src/wordle.scss src/wordle.css",
-    "dev-server": "live-server src",
+    "dev-server": "http-server src",
     "dev-sass": "sass src/wordle.scss src/wordle.css --watch",
     "dev": "npm run dev-server & npm run dev-sass",
     "start": "echo \"No start script\" && exit 0",
